@@ -1,7 +1,7 @@
 <h2>Hey  😈, I'm Billy Shi</h2>
 <p>I'm currently a frontend engineer at <strong><a href="https://www.mask.io/">mask.io</a></strong> and <strong><a href="https://next.id/">next.id</a></strong> based in 👾 CyberSpace I am working on some side shits.</p>
 <p> <a href="https://medium.com/@billy_22447"><img src="https://img.shields.io/badge/-@billy_22447-14c767?style=flat-square&labelColor=0A0A0A&logo=Medium&link=https://medium.com/@billy_22447" alt="Medium Badge"></a> <a href="https://twitter.com/billyshiFe888"><img src="https://img.shields.io/badge/-@billyshiFe888-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Twitter&amp;link=https://twitter.com/billyshiFe888/" alt="LinkedIn Badge"></a> </p>
-<p>🐱 Buidling Web3 with my CAT 🐱</p>
+<p>🐱 Buidling Web3 with my CAT 🐱 :) Now I got my DOG 🐶</p>
 <img align="right" src="https://media4.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif?cid=ecf05e47jtt9uhb2cmtcd9eiqtzyonesnkuo9ans5vs7dsns&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
